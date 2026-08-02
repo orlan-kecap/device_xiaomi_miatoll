@@ -14,6 +14,7 @@ $(call inherit-product, hardware/qcom-caf/common/common.mk)
 
 # Inherit from dolby
 $(call inherit-product-if-exists, vendor/oneplus/dolby/oplusdolby.mk)
+$(call inherit-product, vendor/lunaris/dolby/dolby.mk)
 
 # AAPT
 PRODUCT_AAPT_CONFIG := normal
