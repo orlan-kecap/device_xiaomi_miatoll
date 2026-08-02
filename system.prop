@@ -30,3 +30,7 @@ vendor.mm.enable.qcom_parser=16777199
 # WFD
 persist.debug.wfd.enable=1
 vendor.sys.video.disable.ubwc=1
+
+ro.product.marketname=Redmi Note 9 Pro
+ro.infinity.soc=Snapdragon 720G
+ro.infinity.camera=64 MP - Ultra Premium
