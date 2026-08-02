@@ -44,4 +44,4 @@ TARGET_INCLUDE_GOOGLE_TELECOMM := false
 AXION_MAINTAINER := Nezuko™
 TARGET_DISABLES_LIBPERF ?= true
 # Processor name (underscores become spaces)
-AXION_PROCESSOR := Snapdragon™ 720G
+AXION_PROCESSOR := Snapdragon™_720G
