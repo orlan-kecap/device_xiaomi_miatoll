@@ -5,6 +5,9 @@
 
 DEVICE_PATH := device/xiaomi/miatoll
 
+# Lunaris
+include vendor/lunaris/dolby/BoardConfigDolby.mk
+
 # Architecture
 TARGET_ARCH := arm64
 TARGET_ARCH_VARIANT := armv8-2a-dotprod
